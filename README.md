@@ -35,7 +35,7 @@ Any problem?
 
 
 ## Contributing
-For more information about contributing issues or pull requests, see our [VasSonic Contributing Guide](https://github.com/jbr-madgamingdev/MGDH5WebLibrary/blob/master/CONTRIBUTING.md).
+For more information about contributing issues or pull requests, see our [MGD Contributing Guide](https://github.com/jbr-madgamingdev/MGDH5WebLibrary/blob/master/CONTRIBUTING.md).
 
 ## License
 MGDWeb is under the BSD license. See the [LICENSE](https://github.com/jbr-madgamingdev/MGDH5WebLibrary/blob/master/LICENSE) file for details.
