@@ -1,15 +1,48 @@
-*.iml
+# Android Studio
+.idea
 .gradle
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
 /.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+/.idea/libraries
 .DS_Store
 /build
 /captures
 .externalNativeBuild
-.cxx
-local.properties
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Gradle
+.gradle
+/build/
+/out/
+/!gradle-wrapper.jar
+
+# Proguard
+proguard/
+
+# Log Files
+*.log
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Generated files
+*.hprof
+*.jar
+*.bin
+*.class
+*.csv
+*.json
+*.dat
+*.idx
+*.seed
+
+# Windows
+Thumbs.db
