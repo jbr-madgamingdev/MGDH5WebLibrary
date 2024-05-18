@@ -1,4 +1,4 @@
-## MGD H5 WebLibrary SDK : A Lightweight And High-performance Hybrid Framework
+## MGD H5 WebLibrary SDK : A Lightweight And High-performance H5 WebView Framework for Android
 [![license](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat)](https://github.com/jbr-madgamingdev/MGDH5WebLibrary/blob/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/jbr-madgamingdev/MGDH5WebLibrary/pulls)
 ---
