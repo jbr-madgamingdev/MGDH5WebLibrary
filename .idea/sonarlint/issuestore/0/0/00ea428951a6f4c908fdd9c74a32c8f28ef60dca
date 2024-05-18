@@ -1,0 +1,20 @@
+
+
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(üÖœ«8•éıĞø1J$d608b079-efbe-4388-b77d-e36beab415d8
+
+java:S2293ˆ"YReplace the type specification in this constructor call with the diamond operator ("<>").(È¡ƒŞ8•éıĞø1J$89a573a0-53a3-430d-9d16-2cc582040d57
+‘
+java:S1192b"IDefine a constant instead of duplicating this literal "session(" 7 times.(ƒÜŸŞøÿÿÿÿ8–éıĞø1J$bd76455a-1976-4711-bb29-275bc3a0a329
+”	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ®ñ8—éıĞø1J$ba92e1e0-07cf-43a3-9e6a-ed29e32176b7
+
+java:S1124D"EReorder the modifiers to comply with the Java Language Specification.(É÷§Áøÿÿÿÿ8³éıĞø1J$feaea666-1464-4672-b5be-48c0c49f186a
+
+java:S1124F"EReorder the modifiers to comply with the Java Language Specification.(Ò†¿Şúÿÿÿÿ8´éıĞø1J$5d17d564-c1ac-44a6-92e9-ac121053c7a1
+š
+java:S3776\"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(…‡Éøÿÿÿÿ8µéıĞø1J$de17fe63-b1b6-4666-81d0-284c76cd0f6a
+›
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(¬Çœ‚øÿÿÿÿ8¿éıĞø1J$ebfe511b-cce6-4a49-9099-ac7537f55563
+‚
+java:S1155ª">Use isEmpty() to check whether the collection is empty or not.(´¸Ù™8ÅéıĞø1J$37dfcae6-5ae5-4b89-8cb7-15dc8c974de7
+›
+java:S3776 "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÆÌ¨·ıÿÿÿÿ8ËéıĞø1J$0fd30917-aa15-45ba-9d42-e27a063df408

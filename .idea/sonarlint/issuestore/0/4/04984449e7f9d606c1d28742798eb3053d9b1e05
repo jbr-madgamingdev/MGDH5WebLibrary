@@ -1,0 +1,29 @@
+
+
+java:S1192ş"JDefine a constant instead of duplicating this literal "text/html" 5 times.(£ñ–º8ÈÏÿÏø1J$f40f1df4-dc41-4354-9de3-846bec6eafba
+
+java:S1192Ÿ"JDefine a constant instead of duplicating this literal "session(" 33 times.(²Õ÷°8ÉÏÿÏø1J$2ef1a2c1-b1f5-4bea-8bb5-f4546eced6b1
+–	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û­«Ôùÿÿÿÿ8èÏÿÏø1J$8e660486-d2b3-4663-9a45-49bf53595cfa
+s
+java:S1172Ğ"*Remove this unused method parameter "msg".(û­«Ôùÿÿÿÿ8ëÏÿÏø1J$efb193ca-ef3c-48ca-8330-b7c2ca1e8051
+‘	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âöå8ìÏÿÏø1J$ab052bc4-8dcf-4271-a129-d14dfaf3cd27
+n
+java:S1172ß"*Remove this unused method parameter "msg".(Âöå8íÏÿÏø1J$618f6ece-dd8c-4386-92e3-51ec5e4736bc
+‘	java:S100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«çé§8îÏÿÏø1J$2ae45ede-5467-43eb-a704-6f3b226b34b7
+j	java:S131ğ""Add a default case to this switch.(ÔÁñıÿÿÿÿ8ğÏÿÏø1J$fd6b3195-6352-4a1a-8d19-6d2096c0c5dd
+”
+java:S1301ğ"KReplace this "switch" statement by "if" statements to increase readability.(ÔÁñıÿÿÿÿ8ğÏÿÏø1J$af998e2b-cb27-433a-abae-6f76a8e5410d
+–	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼²ãøÿÿÿÿ8òÏÿÏø1J$0fd9e57f-2d7b-4e99-ab0c-6b2f2958b738
+j	java:S131•""Add a default case to this switch.(ÔÁñıÿÿÿÿ8óÏÿÏø1J$23adb639-ed44-41e6-bd1c-db76f52e5d32
+”
+java:S1301•"KReplace this "switch" statement by "if" statements to increase readability.(ÔÁñıÿÿÿÿ8óÏÿÏø1J$978ad617-b81a-4385-8879-deadbdaf99c1
+‘	java:S100¸"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¹Âş8õÏÿÏø1J$bb94b5ee-b9aa-4b25-9f59-08f54d310379
+–	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÙÔ“ùÿÿÿÿ8ùÏÿÏø1J$4399f082-c39f-4c06-bf25-983272b2c8bb
+–
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÚÖÕ¢8‚ĞÿÏø1J$fb698840-cad7-4160-9fd1-f3891864fb4c
+›
+java:S3776“"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¾ÕÌéıÿÿÿÿ8‹ĞÿÏø1J$3d6547e7-8e4f-45a1-b067-31a7bcf9e877
+›
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÕÜÚÌøÿÿÿÿ8–ĞÿÏø1J$b1a8ef63-2441-455f-8991-be160579bdf1
+
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 92 to 64, Complexity from 20 to 14, Nesting Level from 3 to 2, Number of Variables from 21 to 6.(ÕÜÚÌøÿÿÿÿ8¯ĞÿÏø1J$2a333fdc-6189-4013-a4b4-ca2006a2c1c8

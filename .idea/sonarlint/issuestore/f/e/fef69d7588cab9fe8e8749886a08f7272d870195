@@ -1,0 +1,16 @@
+
+h
+java:S2184/"FCast one of the operands of this multiplication operation to a "long".(–Ãÿÿÿÿÿ8éÄ·Ñø1
+‚	java:S116 "aRename this field "CONNECT_TIMEOUT_MILLIS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÆı¦ùÿÿÿÿ8ùÄ·Ñø1
+	java:S116%"^Rename this field "READ_TIMEOUT_MILLIS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïŸ’úÿÿÿÿ8ùÄ·Ñø1
+y	java:S116*"XRename this field "READ_BUF_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…œòûøÿÿÿÿ8ùÄ·Ñø1
+ˆ	java:S116/"gRename this field "PRELOAD_SESSION_EXPIRED_TIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ãÿÿÿÿÿ8ùÄ·Ñø1
+w	java:S1165"[Rename this field "ACCEPT_DIFF_DATA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚»•Û8ùÄ·Ñø1
+y	java:S116:"]Rename this field "IS_ACCOUNT_RELATED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÛÊê8ùÄ·Ñø1
+|	java:S116?"`Rename this field "RELOAD_IN_BAD_NETWORK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¢÷¢8ùÄ·Ñø1
+|	java:S116E"aRename this field "AUTO_START_WHEN_CREATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À«l8ùÄ·Ñø1
+|	java:S116J"`Rename this field "SUPPORT_CACHE_CONTROL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÕ¨8ùÄ·Ñø1
+{	java:S116P"_Rename this field "SUPPORT_LOCAL_SERVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ŠÈš8ùÄ·Ñø1
+	java:S116U"mRename this field "USE_MGD_CACHE_IN_BAD_NETWORK_TOAST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×™Ÿ‰úÿÿÿÿ8ùÄ·Ñø1
+m
+java:S1206q"PThis class overrides "equals()" and should therefore also override "hashCode()".(°Ñµ˜8úÄ·Ñø1

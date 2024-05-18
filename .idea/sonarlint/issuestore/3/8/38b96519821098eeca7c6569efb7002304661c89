@@ -1,0 +1,13 @@
+
+¡
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(øŞàøÿÿÿÿ8Ì˜‚Òø1J$ce599f52-112b-4ed3-9ab6-1b5947483a2d
+‘
+java:S30149"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(‹©Öıÿÿÿÿ8Ì˜‚Òø1J$6925f576-9ff7-4a9c-a802-13ff0bde26f5
+
+java:S1124%"EReorder the modifiers to comply with the Java Language Specification.(å”¥’øÿÿÿÿ8Û˜‚Òø1J$2c43e0e1-fb29-4760-b540-4fddfd02192a
+
+java:S1124*"EReorder the modifiers to comply with the Java Language Specification.(¨¿ÊÖıÿÿÿÿ8Û˜‚Òø1J$58032cc6-4e53-4b4d-ad10-396bc099ef31
+ˆ
+java:S1124C"EReorder the modifiers to comply with the Java Language Specification.(¬íã—8İ˜‚Òø1J$b042a961-65dd-4777-8356-f6ed78a2b998
+m
+java:S1181{"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8â˜‚Òø1J$b915eb7e-d390-447e-a475-d630528679e1

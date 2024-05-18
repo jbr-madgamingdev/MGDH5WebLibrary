@@ -1,0 +1,35 @@
+
+¢
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(âñó™ùÿÿÿÿ8Š€Òø1J$39b93cb7-fe26-4226-9c64-cb84502b9b2d
+§
+java:S1192â"cDefine a constant instead of duplicating this literal "separateTemplateAndData:sessionId(" 4 times.(§‹êÀ8€Òø1J$aeb57dbb-f0fb-427a-802a-3d91f0cdc5fc
+
+java:S1192¯"IDefine a constant instead of duplicating this literal ") error:" 4 times.(ÍòÒò8€Òø1J$77636b85-a776-4355-b0f7-308ac454c381
+‘
+java:S1192£"HDefine a constant instead of duplicating this literal "max-age" 3 times.(ÙêËğúÿÿÿÿ8€Òø1J$7e12adac-56fe-44f1-bace-0d2f966a3080
+±
+java:S1319©"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(Ÿ·”ˆ8’€Òø1J$aff7d8c9-bb98-4ad7-9dd3-c686a70a2c40
+q
+java:S1604¼"(Make this anonymous inner class a lambda(˜É°ûÿÿÿÿ8“€Òø1J$c241a6cc-3064-45ee-8e4b-1adc41d1f57d
+}
+java:S1118.":Add a private constructor to hide the implicit public one.(™¾å´8£ƒÒø1J$e0e162ce-d9ac-457b-8511-2f10e729d249
+›
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(•ûï¯şÿÿÿÿ8ªƒÒø1J$d057dc7d-81ef-42a2-8806-f4ad399b7bbf
+‚
+java:S1155¡">Use isEmpty() to check whether the collection is empty or not.(æîã­8­ƒÒø1J$028e8309-9a9f-4671-a5db-c35e95a21dbe
+‚
+java:S1155·">Use isEmpty() to check whether the collection is empty or not.(æîã­8¯ƒÒø1J$f50070d9-3402-4fb2-875d-d2dfeee6ab52
+n
+java:S1181¨"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8·ƒÒø1J$ce7ab62b-596a-4b90-9503-3133e68f56c0
+n
+java:S1181¹"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8ÁƒÒø1J$0e262794-a85c-4cf2-b27e-5dfb913c6b47
+–
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(éıÅ®8ÍƒÒø1J$91188b8d-3085-46f2-affd-3411e402fde8
+‚
+java:S1155È">Use isEmpty() to check whether the collection is empty or not.(æîã­8ÎƒÒø1J$a6631e21-8c9d-4a61-81f2-9d8e19f28fe7
+–
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(çÂ•¤8ÏƒÒø1J$6edb42b3-3769-4383-a2d1-516de7fe4c23
+n
+java:S1181ı"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ8ĞƒÒø1J$c21c4f6f-a784-4b22-b15f-625d934809f7
+s
+java:S1197È"*Move the array designators [] to the type.(åõ±¥ûÿÿÿÿ8ÖƒÒø1J$e89486e6-776b-441d-86a0-78dac02a773a

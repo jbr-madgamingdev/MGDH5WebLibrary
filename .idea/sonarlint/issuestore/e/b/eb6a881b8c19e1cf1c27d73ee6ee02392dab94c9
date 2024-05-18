@@ -1,0 +1,15 @@
+
+
+java:S2293ã"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û±Óœ8ıƒèĞø1J$0a36d61a-8f3e-427d-bfae-87a068685b21
+›
+java:S1192K"SDefine a constant instead of duplicating this literal " integer default 0" 3 times.(èïèÕÿÿÿÿÿ8şƒèĞø1J$e336d54e-006e-4e3a-8756-a36b32856c8e
+ 
+java:S1104Z"XMake resourceSha1 a static final constant or non-public and provide accessors if needed.(ö°š¥ÿÿÿÿÿ8€„èĞø1J$01f657de-1a33-4b73-8e84-66433cb79990
+ 
+java:S1104_"XMake resourceSize a static final constant or non-public and provide accessors if needed.(Ğ„ò¬şÿÿÿÿ8€„èĞø1J$d4fc2938-cb50-4174-a703-3d27d8dec2a6
+Ÿ
+java:S1104j"WMake expiredTime a static final constant or non-public and provide accessors if needed.(£‹©Ëıÿÿÿÿ8€„èĞø1J$70fc216c-43ec-46ad-9e23-5fb033078cf8
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(úÿ¾›ÿÿÿÿÿ8ò„èĞø1J$55572de4-49bf-4374-964a-554c0339b6b5
+o
+java:S1068$"'Remove this unused "TAG" private field.(æ™Œºøÿÿÿÿ8‰…èĞø1J$5e53f02c-e9f8-4244-8cc9-2c77a98228e8
