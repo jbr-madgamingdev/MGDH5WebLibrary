@@ -50,7 +50,7 @@ MGDWeb is under the BSD license. See the [LICENSE](https://github.com/jbr-madgam
 
 MGD's mission is MAKING WEB MUCH BETTER!
 
-[1]: https://github.com/Tencent/VasSonic/blob/master/assets/mgdweb_before.gif
-[2]: https://github.com/Tencent/VasSonic/blob/master/assets/mgdweb_after.gif
+[1]: https://github.com/jbr-madgamingdev/MGDH5WebLibrary/blob/master/assets/mgdweb_before.gif
+[2]: https://github.com/jbr-madgamingdev/MGDH5WebLibrary/blob/master/assets/mgdweb_after.gif
 
 Thank you for reading ~
