@@ -16,12 +16,6 @@
 
  MGDWeb is called for short in project.
 
-### Before and After Using MGDWeb
-
-Pic 1: Before Using MGDWeb |  Pic 2: After Using MGDWeb
-:-------------------------:|:-------------------------:
-![default mode][1]  |  ![VasSonic mode][2]
-
 ## Getting started
 
 [Getting started with Android](https://github.com/jbr-madgamingdev/MGDH5WebLibrary/blob/master/sample/README.md)
