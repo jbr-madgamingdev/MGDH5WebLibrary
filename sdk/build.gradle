@@ -38,6 +38,6 @@ dependencies {
 
 // sdk info
 version = "3.1.0" // sdk version num
-group = "com.tencent.sonic" // maven group id for the artifact
-def SITE_URL = "https://github.com/Tencent/VasSonic" // web site url
-def GIT_URL = "https://github.com/Tencent/VasSonic.git" // git url
+group = "io.mgddevjo.websdk" // maven group id for the artifact
+def SITE_URL = "https://github.com/jbr-madgamingdev/MGDH5WebLibrary" // web site url
+def GIT_URL = "https://github.com/jbr-madgamingdev/MGDH5WebLibrary.git" // git url
