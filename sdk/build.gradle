@@ -1,5 +1,7 @@
 plugins {
     alias(libs.plugins.android.library)
+    id 'maven-publish'
+    id 'signing'
 }
 
 android {
@@ -8,6 +10,9 @@ android {
 
     defaultConfig {
         minSdk 26
+
+        versionCode 1
+        versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
@@ -37,7 +42,60 @@ dependencies {
 }
 
 // sdk info
-version = "3.1.0" // sdk version num
+version = "1.0.0" // sdk version num
 group = "io.mgddevjo.websdk" // maven group id for the artifact
 def SITE_URL = "https://github.com/jbr-madgamingdev/MGDH5WebLibrary" // web site url
 def GIT_URL = "https://github.com/jbr-madgamingdev/MGDH5WebLibrary.git" // git url
+
+publishing {
+    publications {
+        release(MavenPublication) {
+            from components.release
+
+            groupId = 'io.mgddevjo.websdk'
+            artifactId = 'sdk'
+            version = '1.0.0'
+
+            pom {
+                name.set('MGD H5 Web SDK')
+                description.set('A Lightweight And High-performance H5 WebView Framework for Android')
+                url.set('https://github.com/jbr-madgamingdev/MGDH5WebLibrary')
+
+                licenses {
+                    license {
+                        name.set('The Apache License, Version 2.0')
+                        url.set('http://www.apache.org/licenses/LICENSE-2.0.txt')
+                    }
+                }
+                developers {
+                    developer {
+                        id.set('jbr-madgamingdev')
+                        name.set('Joriel Robles')
+                        email.set('dev@madgamingdev.com')
+                    }
+                }
+                scm {
+                    connection.set('scm:git:git://github.com/jbr-madgamingdev/MGDH5WebLibrary.git')
+                    developerConnection.set('scm:git:ssh://github.com/jbr-madgamingdev/MGDH5WebLibrary.git')
+                    url.set('https://github.com/jbr-madgamingdev/MGDH5WebLibrary')
+                }
+            }
+        }
+    }
+
+    repositories {
+        maven {
+            name = 'sonatype'
+            url = 'https://oss.sonatype.org/service/local/staging/deploy/maven2/'
+
+            credentials {
+                username = project.findProperty("ossrhUsername") ?: ""
+                password = project.findProperty("ossrhPassword") ?: ""
+            }
+        }
+    }
+}
+
+signing {
+    sign publishing.publications.release
+}
