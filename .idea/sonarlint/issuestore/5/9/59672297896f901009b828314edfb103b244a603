@@ -1,9 +1,0 @@
-
-–
-java:S1192X"SDefine a constant instead of duplicating this literal "get resource data(" 6 times.(‡ï£Œ8°œ¨Òø1J$577717bf-56a9-4f87-a73e-3fc204d400fa
-”
-java:S3776G"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ôä,8Àœ¨Òø1J$b850b435-45e6-42b2-9616-6a6b3192806b
-i
-java:S1168I"&Return an empty array instead of null.(¥¹ï8Âœ¨Òø1J$dcc01447-1605-483b-aeb4-c88bb67eb7b8
-i
-java:S1168P"&Return an empty array instead of null.(¥¹ï8Âœ¨Òø1J$7a46d4eb-0046-4cf6-b519-f75947db21f5

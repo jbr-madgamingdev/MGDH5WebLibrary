@@ -1,8 +1,0 @@
-
-p
-java:S1604`"(Make this anonymous inner class a lambda(˜É°ûÿÿÿÿ8ïÅ¬Ğø1J$e68e82ee-389e-42b8-9a73-f230040b30bc
-t
-java:S1172v"1Remove this unused method parameter "newVersion".(ˆ¦óò8˜Æ¬Ğø1J$0732b0f8-d1de-4a6f-824f-65e66f49566c
-
-java:S1301w"KReplace this "switch" statement by "if" statements to increase readability.(Â©Û§8šÆ¬Ğø1J$b247943b-125f-41ce-a92e-5ff727184957
-–	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÇÃşûÿÿÿÿ8›Æ¬Ğø1J$1a67c8b3-9bb9-4204-871a-0a567b0e4912
