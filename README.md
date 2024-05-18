@@ -16,6 +16,12 @@
 
  MGDWeb is called for short in project.
 
+### Before and After Using MGD H5 Web SDK
+
+Pic 1: Before Using MGDWeb |  Pic 2: After Using MGDWeb
+:-------------------------:|:-------------------------:
+![default mode][1]  |  ![MGDWeb mode][2]
+
 ## Getting started
 
 [Getting started with Android](https://github.com/jbr-madgamingdev/MGDH5WebLibrary/blob/master/sample/README.md)
@@ -43,5 +49,8 @@ MGDWeb is under the BSD license. See the [LICENSE](https://github.com/jbr-madgam
 ## The End
 
 MGD's mission is MAKING WEB MUCH BETTER!
+
+[1]: https://github.com/Tencent/VasSonic/blob/master/assets/mgdweb_before.gif
+[2]: https://github.com/Tencent/VasSonic/blob/master/assets/mgdweb_after.gif
 
 Thank you for reading ~
